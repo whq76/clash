@@ -2,10 +2,15 @@
 
 # 域名后缀匹配
 DOMAIN-SUFFIX,sexinsex.net
+DOMAIN-SUFFIX,live.com
+
 # 域名关键字匹配
 DOMAIN-KEYWORD,1e100
 
 # 国外DNS
+DOMAIN,www.outlook.com
+DOMAIN,chromewebstore.google.com
+DOMAIN,greasyfork.org
 DOMAIN,access.mypikpak.com
 DOMAIN,bulianglin.com
 DOMAIN,api.dler.io
