@@ -1,12 +1,27 @@
 # 代理补充列表
+#域名匹配
+DOMAIN,javdb.com
+DOMAIN,jable.tv
+DOMAIN,123av.com
+DOMAIN,avsox.click
+DOMAIN,avsox.com
+DOMAIN,www.javbus.com
+DOMAIN,www.jav321.com
+DOMAIN,www.javlibrary.com
+DOMAIN,www.mgstage.com
+DOMAIN,www.prestige-av.com
+DOMAIN,www.seedmm.help
+DOMAIN,www.y78k.com
 
 # 域名后缀匹配
 DOMAIN-SUFFIX,sexinsex.net
 DOMAIN-SUFFIX,live.com
 DOMAIN-SUFFIX,greasyfork.org
+DOMAIN-SUFFIX,javdb368.com
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,1e100
+DOMAIN-KEYWORD,airav
 
 # 国外DNS
 DOMAIN,www.outlook.com
