@@ -12,12 +12,20 @@ DOMAIN,www.mgstage.com
 DOMAIN,www.prestige-av.com
 DOMAIN,www.seedmm.help
 DOMAIN,www.y78k.com
+DOMAIN,cdn.jsdelivr.net
+DOMAIN,api.dler.io
+DOMAIN,access.mypikpak.com
+DOMAIN,greasyfork.org
+DOMAIN,www.outlook.com
+DOMAIN,chromewebstore.google.com
+DOMAIN,repo.jellyfin.org
 
 # 域名后缀匹配
 DOMAIN-SUFFIX,sexinsex.net
 DOMAIN-SUFFIX,live.com
 DOMAIN-SUFFIX,greasyfork.org
 DOMAIN-SUFFIX,javdb368.com
+DOMAIN-SUFFIX,live.com
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,1e100
