@@ -12,6 +12,8 @@ DOMAIN,www.mgstage.com
 DOMAIN,www.prestige-av.com
 DOMAIN,www.seedmm.help
 DOMAIN,www.y78k.com
+DOMAIN,www.subtitlecat.com
+DOMAIN,www.avsubtitles.com
 DOMAIN,cdn.jsdelivr.net
 DOMAIN,api.dler.io
 DOMAIN,access.mypikpak.com
@@ -19,7 +21,7 @@ DOMAIN,greasyfork.org
 DOMAIN,www.outlook.com
 DOMAIN,chromewebstore.google.com
 DOMAIN,repo.jellyfin.org
-DOMAIN,www.subtitlecat.com
+
 
 # 域名后缀匹配
 DOMAIN-SUFFIX,sexinsex.net
