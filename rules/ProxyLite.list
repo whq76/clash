@@ -19,6 +19,7 @@ DOMAIN,greasyfork.org
 DOMAIN,www.outlook.com
 DOMAIN,chromewebstore.google.com
 DOMAIN,repo.jellyfin.org
+DOMAIN,www.subtitlecat.com
 
 # 域名后缀匹配
 DOMAIN-SUFFIX,sexinsex.net
