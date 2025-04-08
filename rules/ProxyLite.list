@@ -1,5 +1,7 @@
 # 代理补充列表
 #域名匹配
+DOMAIN,www.sehuatang.org
+DOMAIN,javdb368.com
 DOMAIN,javdb.com
 DOMAIN,jable.tv
 DOMAIN,123av.com
@@ -23,7 +25,9 @@ DOMAIN,chromewebstore.google.com
 DOMAIN,repo.jellyfin.org
 
 
+
 # 域名后缀匹配
+DOMAIN-SUFFIX,dify.ai
 DOMAIN-SUFFIX,sexinsex.net
 DOMAIN-SUFFIX,live.com
 DOMAIN-SUFFIX,greasyfork.org
